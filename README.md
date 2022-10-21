@@ -13,6 +13,11 @@ N/A
 
 To use this website, you can navigate the navigation bars for various options. Under the banner image are contents of the options on navigation bar. Off to the side, you will see a list of benefits of choosing Horiseon.
 
+## Screenshot
+
+The following image shows the web application's appearance and functionality:
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Assets/02-advanced-css-homework-demo.)
+
 ## Credits
 
 N/A
