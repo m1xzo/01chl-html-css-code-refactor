@@ -16,7 +16,7 @@ To use this website, you can navigate the navigation bars for various options. U
 ## Screenshot
 
 The following image shows the web application's appearance and functionality:
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Assets/02-advanced-css-homework-demo.)
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](.\assets\images\captures_chrome-capture-2022-9-21.png)
 
 ## Credits
 
