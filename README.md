@@ -16,7 +16,11 @@ To use this website, you can navigate the navigation bars for various options. U
 ## Screenshot
 
 The following image shows the web application's appearance and functionality:
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](.\assets\images\captures_chrome-capture-2022-9-21.png)
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./assets/images/captures_chrome-capture-2022-9-21.png)
+
+## Link
+
+[Deploy Link to the web application](https://m1xzo.github.io/module-1-challenge/).
 
 ## Credits
 
