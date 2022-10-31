@@ -1,4 +1,4 @@
-# module-1-challenge
+# html-css-code-refactor
 Horiseon Website
 
 ## Description
