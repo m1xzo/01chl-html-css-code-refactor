@@ -20,7 +20,7 @@ The following image shows the web application's appearance and functionality:
 
 ## Link
 
-[Deploy Link to the web application](https://m1xzo.github.io/module-1-challenge/).
+[Deploy Link to the web application](https://m1xzo.github.io/01chl-html-css-code-refactor/).
 
 ## Credits
 
